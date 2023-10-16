@@ -1,0 +1,19 @@
+API Handling
+    -Imports
+        -Retrofit
+        -Okhttp
+        -Interceptor
+        -Logger
+    -Data classes
+    -BASE URL & END POINTS
+    -Retrofit integration -> Interface -Suspend functions for ACCESS
+    -Request and Response expectation
+    -Repository Interface to list down all the calls
+    -Repository implementation to handle the request
+
+
+
+Dependency Injections:
+    -Imports (gradle - HILT)
+        -Project level import
+        -Plugin in app level
